@@ -1,5 +1,5 @@
 {
-  "name": "urlang",
+  "name": "florium",
   "version": "1.0.4",
   "description": "This is a library that lets you build your own programming language!",
   "main": "dist/index.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larvance/urlang.git"
+    "url": "git+https://github.com/larvance/florium.git"
   },
   "bugs": {
-    "url": "https://github.com/larvance/urlang"
+    "url": "https://github.com/larvance/florium"
   },
-  "homepage": "https://github.com/larvance/urlang#readme",
+  "homepage": "https://github.com/larvance/florium#readme",
   "keywords": [
     "language",
     "programming",
